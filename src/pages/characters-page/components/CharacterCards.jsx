@@ -44,6 +44,7 @@ function CharacterCards() {
           <img
             className="flex rounded-full w-28 border-2 border-green-400 px-[20]"
             src={image}
+            alt='#'
           />
           <span className="block text-green-500 text-2xl py-6 px-5">
             <p>Name: {name}</p>

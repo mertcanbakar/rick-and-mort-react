@@ -22,6 +22,7 @@ const Welcome = () => {
           className="text-white text-2xl transition-all hover:text-green-600 hover:text-3xl select-none"
           href="https://www.adultswim.com/videos/rick-and-morty"
           target='_blank'
+          rel="noopener"
         >
           Watch Rick and Morty
         </a>

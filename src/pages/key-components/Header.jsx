@@ -1,9 +1,8 @@
-import React, {useState} from "react";
-import {useHistory} from 'react-router-dom'
+import React from "react";
+
 
 const Header = () => {
-  const [search, setSearch] = useState("");
-  console.log(search)
+
   return (
     <div className="sticky top-0 bg-neutral-800">
       <div className="container mx-auto h-12 flex items-center justify-between">
